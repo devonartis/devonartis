@@ -1,7 +1,7 @@
 ### Hi there T. Devon Artis coming at ya ... 
 
 
-**devonartis/devonartis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Devonartis/devonartis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
