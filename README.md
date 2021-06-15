@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on cloud devsecops security implementation for ***confidential*** client
-- 🌱 I’m currently learning to become more proficient in Blockchain specifically Smart Contract Development and Security.
+- 🔭 I’m currently working on cloud DevSecOps security implementation for ***confidential*** client
+- 🌱 I’m currently learning an expert in Blockchain specifically Smart Contract Development and Security.
 - 👯 I’m looking to collaborate on Blockchain and Cloud Security projects
 - 🤔 I’m looking for help with end to end real world use cases for Blockchain
 - 💬 Ask me about AWS, Cloud Security, DevOps, Terraform, Blockchain Security, Solidity, Private Blockchain, Hyperledger
