@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Cloud/AI Security Architect/Engineering for a ***confidential*** client
+- 🔭 I’m currently working on Cloud/AI Security Architect/Engineering
 - 🌱 I’m currently learning an expert in Blockchain specifically Smart Contract Development and Security.
 - 👯 I’m looking to collaborate on Blockchain and AI Security projects
 - 🤔 I’m looking for help with end to end real world use cases for Blockchain, AI and LLMs
